@@ -110,7 +110,7 @@ a:hover{
     background-position: center;
     top: 10px;
     filter: grayscale(20%);
-    background-image:url(/img/sakura-street.jpg);
+    background-image:url(sakura-street.jpg);
 
 }
 
